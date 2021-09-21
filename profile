@@ -1,0 +1,2 @@
+export EMAIL_USER="bhult4fl@gmail.com"
+export EMAIL_PASS="auuirdmdfgoxnwgc"
